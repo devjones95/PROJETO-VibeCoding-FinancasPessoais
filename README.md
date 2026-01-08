@@ -2,7 +2,7 @@
 This project was developed following Vibe Coding principles, utilizing AI-assisted tools such as GitHub Copilot and Lovable throughout the application development process.
 
 
-PRD – Aplicativo de Organização Financeira Conversacional com Design Universal
+# PRD – Aplicativo de Organização Financeira Conversacional com Design Universal
 
 1. Contexto
 Estou desenvolvendo um aplicativo de Organização de Finanças Pessoais baseado em conversas. A proposta é permitir que o usuário controle seus gastos de forma natural, sem formulários complexos ou planilhas. A experiência deve ser simples, acessível e orientada a conversas.
